@@ -1,6 +1,2 @@
-stage('Clone') {
-    steps {
-        git branch: 'main', url: 'https://github.com/Abhi100807/flask-cicd.git'
-    }
-}
+echo "hi ra abhi"
 
